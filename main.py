@@ -1,7 +1,6 @@
-import tweepy
+import tweepy 
 import os
 import time
-import openai
 from openai import OpenAI
 from requests.exceptions import ConnectionError
 from dotenv import load_dotenv
