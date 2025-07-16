@@ -28,9 +28,9 @@ Este projeto é um bot automatizado que monitora uma conta do Twitter (X), detec
 
 ## 🔧 Como usar
 
-### 1. Clone o repositório
-
 ```bash
+# Clone o repositório
+
 git clone https://github.com/Darffin/twitter-bot.git
 cd twitter-bot
 
