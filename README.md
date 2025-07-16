@@ -13,18 +13,18 @@ Este projeto é um bot automatizado que monitora uma conta do Twitter (X), detec
 ## 📦 Tecnologias Utilizadas
 
 - [Python 3.10+](https://www.python.org/)
-- [Tweepy](https://www.tweepy.org/) — integração com a API do Twitter.
-- [Google AI Gemini SDK](https://ai.google.dev) — alternativa gratuita ao GPT.
-- [OpenAI Python SDK](https://github.com/openai/openai-python) — geração de respostas com IA.
-- [python-dotenv](https://pypi.org/project/python-dotenv/) — para gerenciamento de variáveis de ambiente.
+- [Tweepy](https://www.tweepy.org/) - integração com a API do Twitter.
+- [Google AI Gemini SDK](https://ai.google.dev) - alternativa gratuita ao GPT.
+- [OpenAI Python SDK](https://github.com/openai/openai-python) - geração de respostas com IA.
+- [python-dotenv](https://pypi.org/project/python-dotenv/) - para gerenciamento de variáveis de ambiente.
 
 ## 📁 Estrutura
 
-- `.env` — Credenciais (NÃO SUBA ISSO NO GITHUB!)
+- `.env` - Credenciais (NÃO SUBA ISSO NO GITHUB!)
 - `.gitignore`
-- `main.py` — Código principal do bot
-- `requirements.txt` — Lista de dependências
-- `README.md` — Este arquivo
+- `main.py` - Código principal do bot
+- `requirements.txt` - Lista de dependências
+- `README.md` - Este arquivo
 
 ## 🔧 Como usar
 
